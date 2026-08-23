@@ -11,4 +11,4 @@
 
 ----
 
-→ [Всё содержание документации](docs/Table_Of_Contents.md)
+→ [Всё содержание документации](Table_Of_Contents.md)
